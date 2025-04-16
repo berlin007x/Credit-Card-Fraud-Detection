@@ -18,7 +18,7 @@ To identify fraudulent transactions and uncover trends by analyzing:
 
 - **PostgreSQL** for database management
 - **SQL** for data analysis (Joins, Aggregations, Grouping, Filters)
-- **pgAdmin ** for running queries
+- **pgAdmin** for running queries
 - **CSV Files** for importing data
 - **Git & GitHub** for version control
 
