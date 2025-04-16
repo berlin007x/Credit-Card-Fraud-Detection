@@ -5,14 +5,14 @@
 					
 					
 					
-					--- PROBLEMS ---
+	    --- PROBLEMS ---
 
 
 
-			SELECT * FROM card_base;	
-			SELECT * FROM customer_base;	
-			SELECT * FROM fraud_base;	
-			SELECT * FROM transcation_base;
+	SELECT * FROM card_base;	
+	SELECT * FROM customer_base;	
+	SELECT * FROM fraud_base;	
+	SELECT * FROM transcation_base;
 	
 
 
