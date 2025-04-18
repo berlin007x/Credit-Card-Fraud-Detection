@@ -20,7 +20,6 @@ To identify fraudulent transactions and uncover trends by analyzing:
 - **SQL** for data analysis (Joins, Aggregations, Grouping, Filters)
 - **pgAdmin** for running queries
 - **CSV Files** for importing data
-- **Git & GitHub** for version control
 
 ---
 
@@ -45,15 +44,6 @@ To identify fraudulent transactions and uncover trends by analyzing:
 4. **Average age of fraud-affected customers based on card type**
 5. **Month with the highest number of fraudulent transactions**
 6. **Customer with the highest non-fraudulent transaction value**
-
----
-
-## How to Use
-
-1. **Set up PostgreSQL**: Install from [PostgreSQL Downloads](https://www.postgresql.org/download/) or use a cloud service like [ElephantSQL](https://www.elephantsql.com/).
-2. **Create the Database**: Use **pgAdmin** or **DBeaver** to create a new PostgreSQL database.
-3. **Import Data**: Load the CSV files into the corresponding tables.
-4. **Run SQL Scripts**: Execute `create_tables.sql` to set up your tables, and then run `fraud_analysis_queries.sql` to analyze the data.
 
 ---
 
