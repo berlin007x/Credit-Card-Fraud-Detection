@@ -1,10 +1,10 @@
-# 💳 Credit Card Fraud Detection using SQL
+# Credit Card Fraud Detection using SQL
 
 An SQL project for analyzing credit card transactions and detecting fraud using **PostgreSQL**. This project explores customer profiles, transaction behaviors, and fraud patterns through various SQL queries.
 
 ---
 
-## 📌 Objective
+## Objective
 
 To identify fraudulent transactions and uncover trends by analyzing:
 - Customer details
@@ -14,7 +14,7 @@ To identify fraudulent transactions and uncover trends by analyzing:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **PostgreSQL** for database management
 - **SQL** for data analysis (Joins, Aggregations, Grouping, Filters)
@@ -24,7 +24,7 @@ To identify fraudulent transactions and uncover trends by analyzing:
 
 ---
 
-## 📂 Project Files
+## Project Files
 
 - **`dataset/`**: Contains the CSV files:
   - `card_base.csv` - Credit card data
@@ -37,7 +37,7 @@ To identify fraudulent transactions and uncover trends by analyzing:
 
 ---
 
-## 🔍 Key Queries
+## Key Queries
 
 1. **Customers with transactions over 49000**
 2. **Premium credit card eligibility based on customer type**
@@ -48,7 +48,7 @@ To identify fraudulent transactions and uncover trends by analyzing:
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. **Set up PostgreSQL**: Install from [PostgreSQL Downloads](https://www.postgresql.org/download/) or use a cloud service like [ElephantSQL](https://www.elephantsql.com/).
 2. **Create the Database**: Use **pgAdmin** or **DBeaver** to create a new PostgreSQL database.
@@ -57,7 +57,7 @@ To identify fraudulent transactions and uncover trends by analyzing:
 
 ---
 
-## 💡 Conclusion
+## Conclusion
 
 This project utilizes SQL to detect fraudulent credit card transactions and provides actionable insights into transaction patterns and customer behavior. It’s a useful tool for detecting fraud in large datasets.
 
